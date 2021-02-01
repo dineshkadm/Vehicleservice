@@ -1,0 +1,1 @@
+insert into Vehicle (id,make,registration,category,fueltype,hired,model) values(1, 'BMW','YH14 AKL','Van','Petrol','false','X2');
